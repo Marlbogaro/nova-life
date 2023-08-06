@@ -10,14 +10,11 @@ It's recommended to have 6gb of RAM for Nova-Life
 
 ## Server Ports
 
-Ports required to run the server in a table format.
+Ports required to run the server.
 
 | Port    | default |
 |---------|---------|
 | Server  |  7777   |
-
-## Support [Discord](https://blackofgame.fr/discord)
-
 
 ------------------------------------------
 
@@ -33,7 +30,7 @@ Il est recommandé d'avoir 6 Go de RAM pour Nova-Life
 
 ## Serveur Port
 
-Ports requis pour exécuter le serveur dans un format de tableau.
+Ports requis pour exécuter le serveur.
 
 | Port    | default |
 |---------|---------|
